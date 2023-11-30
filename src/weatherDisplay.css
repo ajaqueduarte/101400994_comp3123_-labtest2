@@ -1,0 +1,33 @@
+.weather-display {
+    /* Your styling here */
+    background: #fff;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px; /* Adjust as needed */
+}
+
+.current-weather {
+    /* Additional styling here */
+}
+
+.date-location {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.temperature .value {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.temperature .condition {
+    font-size: 24px;
+}
+
+.other-details p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+}
+
